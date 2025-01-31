@@ -6,13 +6,10 @@
 - 💬 Ask me about ...Web Devlopment
 - 📫 How to reach me: Google "Ridoy Islam"
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I Love Code
-
-- 🌐 About Me
-- 👋 Hi, I’m  Ridoy Islam
+- ⚡ Fun fact: I Love Code About Me 👋 Hi, I’m  Ridoy Islam
    I’m a Web Designer & Web Developer specializing in HTML, CSS,Bootstrap, JavaScript, React,Node.js,Express.js,MoongoDB,Next.js,  
    Passionate about open-source and innovative tech solutions  
-   Reach me at [Your Email or Social Media] 
+   Reach me at rkrafikridoy5887@gmail.com 
 
 
 ## 🌐 Socials:
